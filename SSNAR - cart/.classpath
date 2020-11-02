@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-core-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-core-0.30.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-dense64-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-dense64-0.30.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-denseC64-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-denseC64-0.30.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-equation-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-equation-0.30.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-simple-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/EJML-simple-0.30.jar"/>
+	<classpathentry kind="lib" path="dist/lib/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/rxtx-2.1.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="dist/SSNAR_-_cart.jar"/>
+	<classpathentry kind="lib" path="libraries/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-core-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-core-0.30.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-dense64-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-dense64-0.30.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-denseC64-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-denseC64-0.30.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-equation-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-equation-0.30.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-simple-0.30-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/EJML-simple-0.30.jar"/>
+	<classpathentry kind="lib" path="libraries/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libraries/rxtx-2.1.7.jar"/>
+	<classpathentry kind="lib" path="libraries/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="rxtx-native-windows.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
